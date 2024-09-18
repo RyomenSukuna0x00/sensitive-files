@@ -1,0 +1,15 @@
+admin/db_config.php   
+common/config.php.new
+.log
+.cache
+.secret
+.db
+.backup
+.yml
+.json
+.gz
+.rar
+.zip
+.config
+/config/config.prod.json
+http://config.prod.json
