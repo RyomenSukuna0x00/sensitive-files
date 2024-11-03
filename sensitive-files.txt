@@ -12,4 +12,4 @@ common/config.php.new
 .zip
 .config
 /config/config.prod.json
-http://config.prod.json
+config.prod.json
