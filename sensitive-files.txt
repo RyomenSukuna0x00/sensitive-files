@@ -14,3 +14,4 @@ common/config.php.new
 config/config.prod.json
 config.prod.json
 .git/HEAD
+server-status
