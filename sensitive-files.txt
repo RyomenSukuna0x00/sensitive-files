@@ -11,5 +11,6 @@ common/config.php.new
 .rar
 .zip
 .config
-/config/config.prod.json
+config/config.prod.json
 config.prod.json
+.git/HEAD
